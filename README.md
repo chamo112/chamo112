@@ -1,4 +1,4 @@
-### Hi:)
+### Hi there 👋
 
 <!--
 **chamo112/chamo112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
