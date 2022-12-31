@@ -1,20 +1,17 @@
 ### Hi there 👋
 
+## :rabbit: About
+
+
+## :chart_with_upwards_trend: Status
+
 ![](https://komarev.com/ghpvc/?username=chamo112&color=BC698F&style=for-the-badge)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamo112&theme=synthwave)](https://github.com/chamo112/github-readme-stats)
-<!--
-**chamo112/chamo112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/chamo112/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamo112&layout=compact&theme=panda" />
+  </a>
+  <a href="https://github.com/chamo112/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chamo112&show_icons=true&theme=panda&text_bold=false&count_private=true&hide_title=true" />
+  </a>
+</div>
