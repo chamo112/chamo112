@@ -1,6 +1,7 @@
-### Hi there 👋
-
 ## :rabbit: About
+
+Hi! I'm an engineer.
+
 
 
 ## :chart_with_upwards_trend: Status
