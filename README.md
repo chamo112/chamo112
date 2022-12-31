@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/chamo112)
+![](https://komarev.com/ghpvc/?username=chamo112&color=BC698F&style=for-the-badge)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamo112&theme=synthwave)](https://github.com/chamo112/github-readme-stats)
 <!--
