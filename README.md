@@ -1,6 +1,6 @@
 ## :rabbit: About
 
-Hi! I'm an engineer.
+engineer
 
 
 
